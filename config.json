@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercecrypt",
+        "uuid": 2751777,
+        "checksum": "2zurie"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
